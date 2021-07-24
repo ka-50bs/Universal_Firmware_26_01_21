@@ -1,0 +1,17 @@
+main.c:135:6:Start_Symbol	16	static
+main.c:142:6:Stop_Symbol	16	static
+main.c:153:6:True_Trigger_Mode	16	static
+main.c:178:6:Auto_Trigger_Mode	16	static
+main.c:208:6:CDC_Send_Data	16	static
+main.c:226:6:DAC_Write	24	static
+main.c:244:6:While_Parser	8	static,ignoring_inline_asm
+main.c:275:6:CDC_Callback_Parser	16	static
+main.c:313:6:Trigger_DMA_Callback	16	static
+main.c:340:6:Trace_DMA_Callback	16	static
+main.c:366:5:main	8	static
+main.c:421:6:SystemClock_Config	88	static
+main.c:465:6:HAL_GPIO_EXTI_Callback	16	static,ignoring_inline_asm
+main.c:479:6:CDC_ReciveCallBack	24	static
+main.c:491:6:HAL_ADC_ConvCpltCallback	16	static
+main.c:523:6:HAL_ADC_ConvHalfCpltCallback	16	static
+main.c:561:6:Error_Handler	4	static,ignoring_inline_asm
